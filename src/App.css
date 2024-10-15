@@ -1,0 +1,7 @@
+body{
+    background-image: url("../public/free-photo-of-tokyo-tower-illuminated-at-night-skyline.jpeg");
+    background-repeat: no-repeat;
+    width:100%;
+    background-size: cover;
+    background-position:center;
+}
